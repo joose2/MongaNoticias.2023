@@ -1,0 +1,22 @@
+body{ background-color: black;
+}
+
+#ff{text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#fg{text-align: center;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#fh{text-align: justify; 
+     color: white;
+}
+
+#perfil{ text-align: justify;
+    color: tomato;
+}
+
+#mapa{ text-align: center;
+}
